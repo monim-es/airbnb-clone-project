@@ -66,6 +66,11 @@ Users can search for available properties, select dates, and make bookings. The 
 
 CI/CD (Continuous Integration/Continuous Deployment) pipelines automate the process of building, testing, and deploying code. This ensures that changes are integrated smoothly and delivered faster with fewer bugs. For this project, tools like GitHub Actions and Docker can be used to automate workflows, run tests, and deploy updates efficiently.
 
+## API Security
+
+To secure the backend APIs, we will implement authentication (to verify user identity), authorization (to control access to resources), and rate limiting (to prevent abuse and ensure stability). Security is crucial to protect user data, ensure only authorized access to sensitive operations like payments, and maintain system reliability.
+
+
 
 
 
