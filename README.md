@@ -1,3 +1,8 @@
+## Project Overview
+
+The Airbnb Clone Project is a full-stack web application that replicates the core features of Airbnb. Its goal is to help learners gain hands-on experience in backend development, database design, API creation, and security practices. The tech stack includes Django, PostgreSQL, GraphQL, advanced Python, and DevOps tools. This project emphasizes scalability, real-world workflows, and effective team collaboration.
+
+
 # airbnb-clone-project
 
 # Team Roles
